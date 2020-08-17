@@ -1,5 +1,5 @@
 # NYC Citi Bike Analysis
-Link to Tableau Story: https://public.tableau.com/profile/alexandria.nichols5400#!/vizhome/Module14Challenge/Challenge?publish=yes
+[Link to Tableau Story](https://public.tableau.com/profile/alexandria.nichols5400#!/vizhome/Module14Challenge/Challenge?publish=yes)
 
 ## Story Point 1
 This page reflects the demographic data of CitiBike users, and New York City and Des Moines residents. The data represented here describes the gender, age, population density, and CitiBike user type for those three population groups.
